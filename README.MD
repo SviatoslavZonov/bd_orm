@@ -1,6 +1,7 @@
 ## Решение домашнего задания к лекции «Python и БД. ORM»
 
-Решение: Задание №1 и Задание №2
+Решение: Задание [№1](https://github.com/SviatoslavZonov/bd_orm/blob/main/DBModels.py) и Задание [№2 и №3](https://github.com/SviatoslavZonov/bd_orm/blob/main/main.py)
+В файл test_data1.json добавлены данные по 2 заданию для удобства. Имя издателя Pushkin, т.к. небольшие проблемы с кодировкой.
 
 ## Домашнее задание к лекции «Python и БД. ORM»
 

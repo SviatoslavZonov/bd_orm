@@ -27,4 +27,5 @@
   {"model": "sale", "pk": 4, "fields": {"price": "16.00", "date_sale": "2018-10-25T10:59:56.230Z", "count": 5, "id_stock": 5}},
   {"model": "sale", "pk": 5, "fields": {"price": "16.00", "date_sale": "2018-10-25T10:59:56.230Z", "count": 5, "id_stock": 9}},
   {"model": "sale", "pk": 6, "fields": {"price": "16.00", "date_sale": "2018-10-25T10:59:56.230Z", "count": 1, "id_stock": 4}}
+
 ]
